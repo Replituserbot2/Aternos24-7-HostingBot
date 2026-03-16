@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fableffa.mcsh.io",
+    "ip": "191.96.231.20:11860",
     "port": 11860,
     "version": "",
     "try-creative": false
