@@ -8,7 +8,7 @@
   "server": {
     "ip": "191.96.231.20",
     "port": 11860,
-    "version": "",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chall78"
     },
     "anti-afk": {
       "enabled": true,
