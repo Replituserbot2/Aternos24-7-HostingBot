@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bot1235532m",
+    "username": "SenpaiSpider",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "191.96.231.20",
-    "port": 11860,
+    "ip": "191.96.231.19",
+    "port": 10815,
     "version": "1.21.5",
     "try-creative": false
   },
