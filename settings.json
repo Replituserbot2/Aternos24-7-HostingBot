@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.glaciercraft.xyz",
+    "ip": "185.207.166.205",
     "port": 25565,
     "version": "1.21.5",
     "try-creative": false
