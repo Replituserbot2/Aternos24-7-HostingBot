@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "185.207.166.205",
-    "port": 25565,
+    "ip": "fablev2.mcpe.network",
+    "port": 53168,
     "version": "1.21.5",
     "try-creative": false
   },
